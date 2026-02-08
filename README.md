@@ -1,16 +1,10 @@
- # =========================================
-
 # Student Name: Achuka Jude
 
 # Learner ID: ALT/SOD/TIN/025/0028
 
 # Track: Data Engineering
 
-# Mini Project: Contact Tracing System
-
-# =========================================
-
-## Health Clinic Data and Outlier Analysis
+# Mini Project: Health Clinic Data and Outlier Analysis
 
 This is a health data analysis that processes patient vital signs, performs statistical analysis, detects abnormal values, and identifies high-risk patients using medical thresholds and IQR outlier detection.
 
